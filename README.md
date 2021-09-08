@@ -48,11 +48,6 @@ Sequencing of small datasets (<1MB)  will be performed on an Illumina iSeq 100 a
 The Lambert Lab (https://lambertlab.io) is led by Dr. Guillaume Lambert, an Assistant Professor in the Department of Applied and Engineering Physics at Cornell University. The Lambert Lab uses fundamental physical principles and synthetic biology to study biological systems at the single-cell and single-molecule level. Members of the Lambert Lab have extensive experience in synthetic biology, computational biology, and DNA sequencing/genomics.
 
 
-### Perks
-
-A sample of lyophilized DNA containing information about any specific address, smart contract, or NFT will be sent to the top 10 contributors of this project as a token of appreciation. 
-
-
 ### References
 
 1. Ceze, L., Nivala, J. & Strauss, K. Molecular digital data storage using DNA. Nature Reviews Genetics 20, 456–466 (2019).

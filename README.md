@@ -15,7 +15,7 @@ While the idea of storing digital information in DNA may seem outlandish at firs
 
 Several academic groups have demonstrated the storage of digital information of increasing complexity in DNA [1]. Yet, most DNA recovery methods were plagued by a relatively high error-rate, which limited the effectiveness of DNA storage methods. Recently, researchers have effectively solved this problem by implementing Reed-Solomon error correction encoding [2] to DNA digital Data [3], which effectively enables the recovery of information in an error-free manner despite sample degradation. This work solved one of the last problems associated with DNA storage, thereby ensuring that the long-term storage of information in DNA is perhaps the only storage media that can last thousands of years [4]. 
 
-This grant will provide funds to the Lambert Lab for the proof-of-concept development of a workflow for the synthesis, storage, retrieval, and easy-dissemination of data from the Ethereum blockchain using DNA. We will follow the recently published protocol by Meiser et al. from Glass group [5] to enode, store, and retrieve data from the Ethereum blockchain.
+This grant will provide funds to the Lambert Lab for the proof-of-concept development of a workflow for the synthesis, storage, retrieval, and easy-dissemination of data from the Ethereum blockchain using DNA. We will follow the recently published protocol by Meiser et al. from Glass group [5] to encode, store, and retrieve data from the Ethereum blockchain.
 
 Since the synthesis of the entirety of the Ethereum blockchain is still cost-prohibitive, the project will reach the following milestones, in order of complexity/cost: 
 

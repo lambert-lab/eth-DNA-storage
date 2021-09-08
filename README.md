@@ -20,12 +20,12 @@ This grant will provide funds to the Lambert Lab for the proof-of-concept develo
 Since the synthesis of the entirety of the Ethereum blockchain is still cost-prohibitive, the project will reach the following milestones, in order of complexity/cost: 
 
 Storage of:
-1. Single block header: 600byte
+1. Single block header: 600 byte
 2. Complete block (including transactions): 20-30kB
 3. All Cryptopunks: 830kB [6]
-4. Stateless block witness: ~2MB [7, 8]
-5. Complete history of a single account or smart contract: 2-50MB
-6. Data for Eth2.0 deposit smart contract: https://etherscan.io/address/0x00000000219ab540356cbb839cbe05303d7705fa
+4. Stateless block witness: ~1-2MB [7, 8]
+5. Complete history of a single account or smart contract
+6. Data for Eth2.0 deposit smart contract
 7. Bridge contract transactions (Optimism, Arbitrum, Polyscan, Ronin, etc)
 8. Complete NFT collection (eg. Artblocks project)
 9. Continuous blocks: 30kB * N, with N>10,000
@@ -41,7 +41,7 @@ DNA amplification and purification, DNA stabilization and immobilization, and DN
 
 DNA samples will either be lyophilized in a trehalose solution (half-life >1 year at room temperature [11]) or immobilized in silica particles (stability >2000 years at 9.4C [2]). Long term stability will be assayed using the technique developed by Organick et al. that leverages the Arrheius equation and quantitative PCR to extract DNA lifetimes.
 
-Sequencing of small datasets (<1MB)  will be performed on an Illumina iSeq 100 already in Dr. Lambert's laboratory. Sequencing of larger datasets will be performed on a Nextseq2000 or HiSeq from the Cornell Institute of Biotechnology.
+Sequencing of small datasets (<1MB)  will be performed on an Illumina iSeq 100 already in Dr. Lambert's laboratory. Sequencing of larger datasets will be performed on a Nextseq 2000 or HiSeq from the Cornell Institute of Biotechnology.
 
 ### About the Lambert Lab
 
@@ -50,7 +50,7 @@ The Lambert Lab (https://lambertlab.io) is led by Dr. Guillaume Lambert, an Assi
 
 ### Perks
 
-A sample of lyophilized DNA containing information about any specific address, smart contract, or NFT will be sent to the top 10 contributors of this project as a "thank you" note. 
+A sample of lyophilized DNA containing information about any specific address, smart contract, or NFT will be sent to the top 10 contributors of this project as a token of appreciation. 
 
 
 ### References
